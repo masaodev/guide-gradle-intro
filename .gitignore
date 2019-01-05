@@ -1,4 +1,5 @@
 build/
 .gradle/
+!gradle-wrapper.jar
 README.html
 .DS_Store
